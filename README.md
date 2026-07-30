@@ -51,22 +51,6 @@ This repository is my personal coding journal where I solve DSA problems, improv
 
 ---
 
-## 📈 Progress
-
-| Topic               | Status |
-| ------------------- | ------ |
-| Arrays              | ⏳      |
-| Strings             | ⏳      |
-| Searching           | ⏳      |
-| Sorting             | ⏳      |
-| Recursion           | ⏳      |
-| Linked List         | ⏳      |
-| Stack               | ⏳      |
-| Queue               | ⏳      |
-| Trees               | ⏳      |
-| Graphs              | ⏳      |
-| Dynamic Programming | ⏳      |
-
 > I'll keep updating this repository as I learn and solve more problems.
 
 ---
